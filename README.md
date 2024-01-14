@@ -1,0 +1,2 @@
+The proposed project focuses on measuring the time required for the execution of processes written in the C++, Python, and Rust programming languages. 
+The main goal of this project is to evaluate and compare the performance of these languages in different scenarios, taking into consideration aspects such as memory allocation, memory access, thread creation, context switching between threads, and migration between processor cores.
